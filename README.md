@@ -1,52 +1,65 @@
-<h1 align="center">Hi 👋, I'm Phùng Phong</h1>
-<h3 align="center">Backend Developer | Node.js • Python • MongoDB • Microservices</h3>
+<h1 align="center">Hi, I'm Phùng Phong 👋</h1>
+<h3 align="center">Backend Developer | Driven by a passion for technology and innovation.</h3>
 
 ---
 
-🔭 Currently building scalable APIs using Node.js, Express, and PostgreSQL  
-🌱 Learning system design, Kafka, Prisma ORM, and microservice architecture  
-💬 Ask me about authentication, database optimization, or distributed systems  
-🌐 Visit my portfolio: [lephungphong.site](https://lephungphong.site)  
-📫 Reach me via email: your.email@example.com
+I'm a <b>Backend Developer</b> who loves building the systems behind modern web applications.
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+## 🚀 Technologies & Tools
 
----
-
-### 📌 Featured Projects
-
-- 🔗 [**wnel**](https://github.com/LePhungPhong/wnel): Entity Linking in PyTorch. Reproduction of an ACL paper, with 35⭐ and clean modular design.
-- 💳 [**invoice-service**](#): Scalable invoice management API with Prisma + PostgreSQL (WIP).
-- 🧱 [**microservice-starter**](#): A boilerplate for building Node.js microservices with Docker, Redis, and message queues.
-
----
-
-### 📊 GitHub Stats
+Here are some of the tools and technologies I work with:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LePhungPhong&show_icons=true&theme=tokyonight" width="410" />
-  <img src="https://streak-stats.demolab.com/?user=LePhungPhong&theme=tokyonight" width="410" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ---
 
-### ⚙️ Currently Exploring
+## 📊 GitHub Stats & Contributions
 
-- ⚡ High-performance backend architecture  
-- 📡 Real-time systems with websockets  
-- 🧩 Clean Architecture & SOLID principles in large-scale APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LePhungPhong&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LePhungPhong&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=LePhungPhong&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
 
-🎯 _"Building backends that are not just functional — but maintainable, scalable, and developer-friendly."_
+## 🧰 Tools I Use
+
+Here are some tools I use to enhance my development workflow:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+You can reach out to me through:
+
+- 📧 <a href="mailto:phungphong123123@gmail.com">Email</a>
+- 🌐 <a href="https://lephungphong.site">Portfolio</a>
+
+---
+
+## 🤝 Let’s Collaborate!
+
+If you have a project or want to collaborate, feel free to connect!  
+I'm especially interested in building scalable backends, APIs.
+
+---
+
+_“Build systems that are simple to use, but powerful under the hood.”_
